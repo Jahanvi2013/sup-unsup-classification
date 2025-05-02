@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="./assets/logo.png" alt="Logo" width="150">
+  <img src="logo.png" alt="Logo" width="150">
 </div>
 
 # Classification Analysis of Vertebral Column Data
